@@ -10,5 +10,10 @@ The following two commands must be executed outside the directory:
 The following commands must be done inside the directory cloned:
 
 3. pip3 install -r requirements.txt
-4. python setup.py develop or pip3 install .
+4. pip3 install .
 
+
+### PID
+
+To run PID control of the buck converter execute the following command:
+python3 PID.py
