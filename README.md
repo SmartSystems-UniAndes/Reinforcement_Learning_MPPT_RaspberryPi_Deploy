@@ -4,14 +4,19 @@ This is a project for research related to the applications of reinforcement lear
 To use this project, execute the following commands in your console after cloning the github repository:
 
 The following two commands must be executed outside the directory:
-1. python3 -m venv name_virtual_env
-2. source name_virtual_env/bin/activate
-
+```
+python3 -m venv name_virtual_env
+```
+```
+source name_virtual_env/bin/activate
+```
 The following commands must be done inside the directory cloned:
-
-3. pip3 install -r requirements.txt
-4. pip3 install .
-
+```
+pip3 install -r requirements.txt
+```
+```
+pip3 install .
+```
 
 ### PID
 
