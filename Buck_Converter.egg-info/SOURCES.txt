@@ -1,7 +1,9 @@
+README.md
 setup.py
 Buck_Converter.egg-info/PKG-INFO
 Buck_Converter.egg-info/SOURCES.txt
 Buck_Converter.egg-info/dependency_links.txt
 Buck_Converter.egg-info/top_level.txt
 utils/__init__.py
+utils/algorithms.py
 utils/functions.py
