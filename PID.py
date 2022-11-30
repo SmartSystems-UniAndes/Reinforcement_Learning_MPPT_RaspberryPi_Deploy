@@ -25,7 +25,7 @@ def get_data():
     output_voltage_window = np.zeros(len_window)
     for i in range(len_window):
         voltage_window[i] = functions.get_voltage(0)
-        output_voltage_window[i] = functions.get_voltage(1)
+        output_voltage_window[i] = functions.get_voltage(2)
     voltage = np.mean(voltage_window)
     output_voltage = np.mean(output_voltage_window)
     return voltage, output_voltage
