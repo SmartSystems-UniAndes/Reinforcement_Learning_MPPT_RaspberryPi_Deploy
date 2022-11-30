@@ -36,6 +36,6 @@ python3 TrackerMPPT.py
 A tensorflow lite model must be present in the models folder to execute this script. The name of the file must start with the "DQN" as the examples present in the models folder. The variable number_DQN inside the TrackerMPPT.py file reference the last part of the name of the model that you want to use (the name after the DQN name part).
 
 ### Utils folder
-The utils folder contains the Perturb and Obeserve algorithm and the DQN algorithm in the algorithms.py file. The functions.py file contains the functions used to extract the current and voltage measurements with the ADS1015. It also contains the code used to manipulate the TL4446 module with the MCP4725. The TL4446 need to be characterized with an osciloscope to check what voltages accuratetly produce what duty cycles. You could also use the datasheet indications of the TL4446.
+The utils folder contains the Perturb and Obeserve algorithm and the DQN algorithm in the algorithms.py file. The functions.py file contains the functions used to extract the current and voltage measurements with the ADS1015. It also contains the code used to manipulate the TL4446 module with the MCP4725. The TL4446 needs to be characterized with an osciloscope to check what voltages accuratetly produce what duty cycles. You could also use the datasheet indications of the TL4446.
 
 
