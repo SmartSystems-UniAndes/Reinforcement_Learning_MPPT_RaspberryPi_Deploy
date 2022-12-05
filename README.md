@@ -46,7 +46,7 @@ python3 PID.py
 The software is licensed under an [MIT License](https://opensource.org/licenses/MIT). A copy of the license has been included in the repository and can be found [here](https://github.com/jfgf11/Reinforcement_Learning_MPPT/blob/main/LICENSE-MIT.txt).
 
 ### Hardware
-The hardware design files are licensed under a CERN Open Source Hardware license version 2 CERN-OHL-P. Details of the license can be found [here](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) and a copy of the license has been included [here](https://github.com/open-pisciculture/open-source-fish-farming-prototypes/blob/main/LICENSE-CERN-OHL-P.txt).
+The hardware design files are licensed under a CERN Open Source Hardware license version 2 CERN-OHL-P. Details of the license can be found [here](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) and a copy of the license has been included [here](https://github.com/jfgf11/Reinforcement_Learning_MPPT_RaspberryPi_Deploy/blob/main/LICENSE-CERN-OHL-P.txt).
 
 ### Documentation
 ![image](https://user-images.githubusercontent.com/49125155/205604437-01cdbdd8-6366-4861-b0d8-b9e25aec0f39.png)
