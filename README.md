@@ -45,6 +45,6 @@ python3 PID.py
 ## Licenses
 
 ### Software
-The software is licensed under an [MIT License](https://opensource.org/licenses/MIT). A copy of the license has been included in the repository and can be found [here](https://github.com/SmartSystems-UniAndes/PV_MPPT_Control_Based_on_Reinforcement_Learning/blob/main/LICENSE-MIT.txt).
+The software is licensed under an [MIT License](https://opensource.org/licenses/MIT). A copy of the license has been included in the repository and can be found [here](https://github.com/jfgf11/Reinforcement_Learning_MPPT/blob/main/LICENSE-MIT.txt).
 
 
