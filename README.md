@@ -49,7 +49,7 @@ The software is licensed under an [MIT License](https://opensource.org/licenses/
 The hardware design files are licensed under a CERN Open Source Hardware license version 2 CERN-OHL-P. Details of the license can be found [here](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) and a copy of the license has been included [here](https://github.com/open-pisciculture/open-source-fish-farming-prototypes/blob/main/LICENSE-CERN-OHL-P.txt).
 
 ### Documentation
-![image](https://user-images.githubusercontent.com/49125155/205604231-321ff54b-2128-4530-aef8-3fa9c1d75c25.png)
+![image](https://user-images.githubusercontent.com/49125155/205604437-01cdbdd8-6366-4861-b0d8-b9e25aec0f39.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
