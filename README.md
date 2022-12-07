@@ -41,6 +41,13 @@ python3 PID.py
 ```
 
 ## Licenses
+| Open Source Licenses          |
+|-------------------------------|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Software    | [MIT License](https://opensource.org/licenses/MIT)     |
+| Hardware  | [CERN-OHL-P](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)        |
+| Documentation  | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)    |
 
 ### Software
 The software is licensed under an [MIT License](https://opensource.org/licenses/MIT). A copy of the license has been included in the repository and can be found [here](https://github.com/jfgf11/Reinforcement_Learning_MPPT/blob/main/LICENSE-MIT.txt).
