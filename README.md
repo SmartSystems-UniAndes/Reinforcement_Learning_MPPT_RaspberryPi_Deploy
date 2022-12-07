@@ -43,7 +43,8 @@ python3 PID.py
 ## Licenses
 
 | Open Source Licenses          |
-| ------------- | ------------- |
+
+| --- | --- |
 | Software    | [MIT License](https://opensource.org/licenses/MIT)     |
 | Hardware  | [CERN-OHL-P](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)        |
 | Documentation  | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)    |
