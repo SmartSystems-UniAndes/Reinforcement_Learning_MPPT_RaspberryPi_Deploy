@@ -1,6 +1,5 @@
 # Reinforcement_Learning_MPPT_RaspberryPi_Deploy
-This is a project for research related to the applications of reinforcement learning towards global maximum power point tracking in photovoltaic systems. The code presented in python is meant to be used with a Raspberry Pi with the I2C protocol activated. This project is part 2 in deploying a Reinforcement Learning model into a Raspberry PI for maximum power point tracking. Part one can be found in the next repository:
-https://github.com/jfgf11/Train_and_Convert_RL_MPPT
+This is a project for research related to the applications of reinforcement learning towards global maximum power point tracking in photovoltaic systems. The code presented in python is meant to be used with a Raspberry Pi with the I2C protocol activated. This project is part 2 in deploying a Reinforcement Learning model into a Raspberry PI for maximum power point tracking. Part one can be found in the Github repository presented [here](https://github.com/SmartSystems-UniAndes/Train_and_Convert_RL_MPPT)
 
 The next diagram shows the main idea of the deployment of the tensorflow lite models into the raspberry pi:
 
