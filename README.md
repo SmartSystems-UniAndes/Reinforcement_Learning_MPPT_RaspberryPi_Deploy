@@ -13,7 +13,7 @@ python3 -m venv name_virtual_env
 ```
 source name_virtual_env/bin/activate
 ```
-The following commands must be done inside the directory cloned:
+The following commands must be executed inside the directory cloned:
 ```
 pip3 install -r requirements.txt
 ```
